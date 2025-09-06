@@ -1,1 +1,1 @@
-console.log("Admin sample loaded.");
+console.log("Admin sample cooked.");
