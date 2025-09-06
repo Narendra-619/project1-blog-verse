@@ -1,7 +1,7 @@
-const sampledata=()=>
+const sampledata= async ()=>
 {
     try{
-         let response=fetch('https://www.google.com')
+         let response=await fetch('https://www.google.com')
     console.log(response)  
     }
   catch(error)
